@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1602165263 source:d:\git\data-structure-algorithm\linkedlisttailimplementation\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"src/LinkedList.cpp"
+
+1602165483 source:d:\git\data-structure-algorithm\linkedlisttailimplementation\src\linkedlist.cpp
+	"LinkedList.h"
+
+1602165483 d:\git\data-structure-algorithm\linkedlisttailimplementation\include\linkedlist.h
+	<iostream>
+
+1602165483 d:\git\data-structure-algorithm\linkedlisttailimplementation\src\linkedlist.cpp
+	"LinkedList.h"
+
+1602219229 source:d:\hilcoe\pointerimplementation\surafel fantu\linkedlisttailimplementation\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"src/LinkedList.cpp"
+
+1602165483 d:\hilcoe\pointerimplementation\surafel fantu\linkedlisttailimplementation\include\linkedlist.h
+	<iostream>
+
+1602219282 d:\hilcoe\pointerimplementation\surafel fantu\linkedlisttailimplementation\src\linkedlist.cpp
+	"LinkedList.h"
+
+1602218282 source:d:\hilcoe\pointerimplementation\surafel fantu\linkedlisttailimplementation\src\linkedlist.cpp
+	"LinkedList.h"
+

@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1604287937 source:d:\storages\documents\codeblocks project\binarytree\main.cpp
+	<iostream>
+	<BinaryTree.h>
+	<math.h>
+
+1604289041 d:\storages\documents\codeblocks project\binarytree\include\binarytree.h
+	<math.h>
+
+1604302453 source:d:\binarytree\main.cpp
+	<iostream>
+	"BinaryTree.h"
+	<math.h>
+	"bTree.h"
+	"src/bTree.cpp"
+
+1604301732 d:\binarytree\include\binarytree.h
+	<math.h>
+
+1604305303 d:\binarytree\include\btree.h
+	<iostream>
+
+1604304003 d:\binarytree\src\btree.cpp
+	"bTree.h"
+
+1604305572 source:d:\binarytree\src\btree.cpp
+	"bTree.h"
+
+1604306036 source:d:\hilcoe\binarytree\src\btree.cpp
+	"bTree.h"
+
+1604306036 d:\hilcoe\binarytree\include\btree.h
+	<iostream>
+

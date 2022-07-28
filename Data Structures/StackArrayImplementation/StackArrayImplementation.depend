@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1603530973 source:d:\git\data-structure-algorithm\stackarrayimplementation\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"Stack.h"
+	"src/Stack.cpp"
+
+1603108414 D
+
+1603709063 source:d:\git\data-structure-algorithm\stackarrayimplementation\src\stack.cpp
+	"Stack.h"
+
+1603287402 d:\git\data-structure-algorithm\stackarrayimplementation\include\stack.h
+	<iostream>
+	"EmptyStackException.h"
+	"NoMemoryException.h"
+
+1603106633 1
+	<iostream>
+	"EmptyStackException.h"
+	"NoMemoryException.h"
+
+1603034820 d:\git\data-structure-algorithm\stackarrayimplementation\include\emptystackexception.h
+	<string>
+	<iostream>
+
+1603034866 d:\git\data-structure-algorithm\stackarrayimplementation\include\nomemoryexception.h
+	<string>
+	<iostream>
+
+1603709063 d:\git\data-structure-algorithm\stackarrayimplementation\src\stack.cpp
+	"Stack.h"
+

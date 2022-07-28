@@ -1,0 +1,35 @@
+int main()
+{
+//will not generate any error!!!
+/*
+[[[[[[[[[[/
+[[[[[[[[[[
+*/
+/*{{{{{{{*/
+//(((((((
+"))))))))"
+'}'
+//will generater errors!!!
+([)]
+[(])
+    do{
+        SetConsoleTextAttribute(hConsole, RED_COLOR);
+        cout<<"Write sample code...\n";
+        SetConsoleTextAttribute(hConsole, 15);
+        cout<<"Input: ";
+        getline(cin, srCode, '\n');
+        balanced = areSymbolsBalanced(stack,srCode,forSymbols);
+        if(balanced)
+            cout<<"Symbols are balanced!!!"<<endl;
+        else
+            displayError(stack);
+        SetConsoleTextAttribute(hConsole, 15);
+        cout<<"Enter Y/y to continue or any key to kill the calculator: ";
+        cin >>ans;
+        system("cls");
+        cin.ignore(INT_MAX,'\n');
+    }while(ans == 'y'|| ans == 'Y');
+
+    system("pause");
+    return 0;
+}

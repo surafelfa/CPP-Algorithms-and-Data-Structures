@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1603558644 source:d:\git\data-structure-algorithm\stackpointerimplementation\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"Stack.h"
+	"src/Stack.cpp"
+
+1603113736 source:d:\git\data-structure-algorithm\stackpointerimplementation\src\stack.cpp
+	"Stack.h"
+
+1603113736 d:\git\data-structure-algorithm\stackpointerimplementation\include\stack.h
+	<bits/stdc++.h>
+	"EmptyStackException.h"
+
+1603038406 d:\git\data-structure-algorithm\stackpointerimplementation\include\emptystackexception.h
+	<bits/stdc++.h>
+
+1603113736 d:\git\data-structure-algorithm\stackpointerimplementation\src\stack.cpp
+	"Stack.h"
+

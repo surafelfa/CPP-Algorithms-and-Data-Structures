@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1602771887 source:d:\git\data-structure-algorithm\doublylinkedlist\src\dlinkedlist.cpp
+	"DLinkedList.h"
+	<iostream>
+
+1602166061 d:\git\data-structure-algorithm\doublylinkedlist\include\dlinkedlist.h
+	<iostream>
+
+1602219162 source:d:\git\data-structure-algorithm\doublylinkedlist\main.cpp
+	<iostream>
+	"DLinkedList.h"
+	"src/DLinkedList.cpp"
+
+1602771887 d:\git\data-structure-algorithm\doublylinkedlist\src\dlinkedlist.cpp
+	"DLinkedList.h"
+	<iostream>
+
+1602172411 source:d:\hilcoe\surafel fantu\doublylinkedlist\main.cpp
+	<iostream>
+	"DLinkedList.h"
+	"src/DLinkedList.cpp"
+
+1602166061 d:\hilcoe\surafel fantu\doublylinkedlist\include\dlinkedlist.h
+	<iostream>
+
+1602172752 d:\hilcoe\surafel fantu\doublylinkedlist\src\dlinkedlist.cpp
+	"DLinkedList.h"
+	<iostream>
+
+1602171393 source:d:\hilcoe\surafel fantu\doublylinkedlist\src\dlinkedlist.cpp
+	"DLinkedList.h"
+	<iostream>
+
+1602219162 source:d:\hilcoe\pointerimplementation\surafel fantu\doublylinkedlist\main.cpp
+	<iostream>
+	"DLinkedList.h"
+	"src/DLinkedList.cpp"
+
+1602166061 d:\hilcoe\pointerimplementation\surafel fantu\doublylinkedlist\include\dlinkedlist.h
+	<iostream>
+
+1602219483 d:\hilcoe\pointerimplementation\surafel fantu\doublylinkedlist\src\dlinkedlist.cpp
+	"DLinkedList.h"
+	<iostream>
+
+1602219115 source:d:\hilcoe\pointerimplementation\surafel fantu\doublylinkedlist\src\dlinkedlist.cpp
+	"DLinkedList.h"
+	<iostream>
+

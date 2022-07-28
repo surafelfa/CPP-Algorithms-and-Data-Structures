@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1604034635 source:d:\git\data-structure-algorithm\queuearrayimplementation\src\queue.cpp
+	"../include/Queue.h"
+	"../include/EmptyQueueException.h"
+	"../include/NoMemoryException.h"
+
+1603797602 d:\git\data-structure-algorithm\queuearrayimplementation\include\queue.h
+	<bits/stdc++.h>
+
+1603736026 d:\git\data-structure-algorithm\queuearrayimplementation\include\emptyqueueexception.h
+	<bits/stdc++.h>
+
+1603736026 d:\git\data-structure-algorithm\queuearrayimplementation\include\nomemoryexception.h
+	<bits/stdc++.h>
+
+1604034415 source:d:\git\data-structure-algorithm\queuearrayimplementation\main.cpp
+	<bits/stdc++.h>
+	"src/Queue.cpp"
+	"include/Queue.h"
+	<windows.h>
+
+1604034635 d:\git\data-structure-algorithm\queuearrayimplementation\src\queue.cpp
+	"../include/Queue.h"
+	"../include/EmptyQueueException.h"
+	"../include/NoMemoryException.h"
+
